@@ -1,2 +1,2 @@
-# comcast-scraper
-Scrapes the Comcast Xfinity website for data usage information
+# comcast-cli
+Interact with the Comcast Xfinity services via CLI (ie. scape bandwidth usage data)
